@@ -1,0 +1,2 @@
+This C++ Project uses file handling to let users to create their bank account, check their account balance, deposit and
+withdraw money from their accounts. It updates the account balance after every transaction.
